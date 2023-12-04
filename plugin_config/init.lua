@@ -1,0 +1,6 @@
+-- require("core.plugin_config.colorscheme.gruvbox")
+require("core.plugin_config.colorscheme.nord")
+require("core.plugin_config.lualine")
+require("core.plugin_config.nvim-tree")
+require("core.plugin_config.treesitter")
+require("core.plugin_config.telescope")
